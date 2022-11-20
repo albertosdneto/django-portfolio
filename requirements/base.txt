@@ -2,7 +2,7 @@ asgiref==3.5.2
 certifi==2022.9.24
 charset-normalizer==2.1.1
 Django==3.2.16
-django-weather @ git+https://github.com/albertosdneto/weather-django-package.git@2c66b74a6f35bd16f9272cae4a6eb52d6b885d3f
+django-weather @ git+https://github.com/albertosdneto/weather-django-package.git
 idna==3.4
 mysqlclient==2.1.1
 python-decouple==3.6
